@@ -10,7 +10,7 @@ The script will run under Linux operating system which supports Python 3 languag
 
 ## REQUIREMENTS
 - Python 3
-- sudo apt-get install python-beautifulsoup
+- sudo apt-get install python3-bs4
 - sudo apt-get install python-pip
 - sudo apt-get install python3-pip
 - pip3 install setuptools
